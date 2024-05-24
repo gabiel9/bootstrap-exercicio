@@ -1,0 +1,35 @@
+
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: rgb(163, 120, 67);
+    color: #fff;
+    
+} 
+
+body {
+    background-color: rgb(250, 235, 215);
+}
+
+#inicio{
+    margin-top: 102px;
+    margin-bottom: 70px;
+}
+.card {
+    margin-bottom: 36px;
+}
+
+#inicio img {
+    width: 100%;
+    height: 60vh;
+}
+
+.navbar-nav .nav-link.active {
+    color: #fff;
+}
+
+.nav-link{
+    text-align: center;
+}
